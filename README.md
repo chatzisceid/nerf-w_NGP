@@ -13,7 +13,7 @@ The code is largely based on NeRF implementation (see master or dev branch), the
 
 ## Software
 
-* Clone this repo by `git clone https://github.com/kwea123/nerf_pl`
+* Clone this repo by `git clone hhttps://github.com/chatzisceid/nerf-w_NGP.git`
 * Python>=3.6 (installation via [anaconda](https://www.anaconda.com/distribution/) is recommended, use `conda create -n nerf_pl python=3.6` to create a conda environment and activate it by `conda activate nerf_pl`)
 * Python libraries
     * Install core requirements by `pip install -r requirements.txt`
